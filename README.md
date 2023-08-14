@@ -1,1 +1,1 @@
-Bookbot is my first git project!
+BookBot is not actually my first git project, but for the purpose of this course, let's pretend!
